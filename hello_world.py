@@ -3,3 +3,4 @@
 # vim: ts=2 sw=2 expandtab
 
 print 'hello world'
+print 'こんちは 世界'
